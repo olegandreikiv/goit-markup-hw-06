@@ -220,6 +220,7 @@ body {
   font-size: 16px;
   line-height: var(--transition);
   letter-spacing: 0.04em;
+  border: none;
   background: var(--iris);
   color: #ffffff;
   border-radius: 4px;
@@ -888,7 +889,6 @@ body {
 }
 
 .button-send-data {
-  border: none;
   margin-top: 24px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
